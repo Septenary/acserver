@@ -7,6 +7,9 @@
 - Headers for multiple corrections follow LOCATION; format, then list specific changes in SUBLOCATION: ORIGINAL, CORRECTED format
 
 
+## TODO
+- Fix exp bar disappearing at level 80, and not disappearing at level 200
+
 ## [0.1.0] - START: 2017-06-24 ; END: 2017-06-00
 ### Added
 Created "Azerothcore Server" Discord server; Github and manual moderation bot added; created custom channels
