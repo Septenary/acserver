@@ -9,6 +9,7 @@
 
 ## [0.1.0] - START: 2017-06-24 ; END: 2017-06-00
 ### Added
+Created "Azerothcore Server" Discord server; Github and manual moderation bot added; created custom channels
 ### Changed
 ### Removed
 ### Fixed
