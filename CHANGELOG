@@ -1,0 +1,14 @@
+# Changelog
+- Dates follow YYYY-MM-DD
+- Entries generally should not end with puncuation
+- Entries should specify ID's when possible and appropriate
+- Updates follow MAJOR.MINOR.HOTFIX format
+- Typos and corrections follow LOCATION; ORIGINAL, CORRECTED format
+- Headers for multiple corrections follow LOCATION; format, then list specific changes in SUBLOCATION: ORIGINAL, CORRECTED format
+
+
+## [0.1.0] - START: 2017-06-24 ; END: 2017-06-00
+### Added
+### Changed
+### Removed
+### Fixed
